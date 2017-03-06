@@ -2,7 +2,7 @@
     "name":"victory4me/codeception",
     "description":"BDD-style testing framework",
     "keywords":["BDD", "acceptance testing", "functional testing", "unit testing", "tdd"],
-    "homepage":"http://github.com/",
+    "homepage":"https://github.com/victory4me/codeception",
     "type":"library",
     "license":"MIT",
     "authors":[
