@@ -67,7 +67,8 @@
     },
     "extra": {
         "branch-alias": {
-        }
+        },
+        "installer-name": "codeception/codeception"
     },
     "bin":["codecept"],
     "config": {
